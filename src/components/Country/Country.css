@@ -1,0 +1,16 @@
+.country-styles{
+    color: black;
+    border: 10px;
+    border-radius: 5px;
+    background-color: cyan;
+    margin: 50px;
+    box-shadow:blue;
+    
+}
+ .flag-style{
+    margin: 10px;
+    border-color: white;
+    border: 5px;
+    border-radius: 5px;
+    
+}
